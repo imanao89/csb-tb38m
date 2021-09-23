@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://imanao89.github.io/csb-tb38m/static/css/main.3e0d1740.chunk.css",
-    "main.js": "https://imanao89.github.io/csb-tb38m/static/js/main.141727d0.chunk.js",
-    "main.js.map": "https://imanao89.github.io/csb-tb38m/static/js/main.141727d0.chunk.js.map",
+    "main.js": "https://imanao89.github.io/csb-tb38m/static/js/main.11338a04.chunk.js",
+    "main.js.map": "https://imanao89.github.io/csb-tb38m/static/js/main.11338a04.chunk.js.map",
     "runtime-main.js": "https://imanao89.github.io/csb-tb38m/static/js/runtime-main.900461ed.js",
     "runtime-main.js.map": "https://imanao89.github.io/csb-tb38m/static/js/runtime-main.900461ed.js.map",
-    "static/js/2.2278e989.chunk.js": "https://imanao89.github.io/csb-tb38m/static/js/2.2278e989.chunk.js",
-    "static/js/2.2278e989.chunk.js.map": "https://imanao89.github.io/csb-tb38m/static/js/2.2278e989.chunk.js.map",
+    "static/js/2.5f6d2a29.chunk.js": "https://imanao89.github.io/csb-tb38m/static/js/2.5f6d2a29.chunk.js",
+    "static/js/2.5f6d2a29.chunk.js.map": "https://imanao89.github.io/csb-tb38m/static/js/2.5f6d2a29.chunk.js.map",
     "index.html": "https://imanao89.github.io/csb-tb38m/index.html",
     "static/css/main.3e0d1740.chunk.css.map": "https://imanao89.github.io/csb-tb38m/static/css/main.3e0d1740.chunk.css.map",
-    "static/js/2.2278e989.chunk.js.LICENSE.txt": "https://imanao89.github.io/csb-tb38m/static/js/2.2278e989.chunk.js.LICENSE.txt"
+    "static/js/2.5f6d2a29.chunk.js.LICENSE.txt": "https://imanao89.github.io/csb-tb38m/static/js/2.5f6d2a29.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.900461ed.js",
-    "static/js/2.2278e989.chunk.js",
+    "static/js/2.5f6d2a29.chunk.js",
     "static/css/main.3e0d1740.chunk.css",
-    "static/js/main.141727d0.chunk.js"
+    "static/js/main.11338a04.chunk.js"
   ]
 }
