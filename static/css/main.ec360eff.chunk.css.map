@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CACA,WACE,gBAA2B,CAC3B,YAAa,CACb,eAAgB,CAChB,wBACF","file":"main.ec360eff.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n.container {\n  margin: 80px auto 80px auto;\n  padding: 20px;\n  max-width: 300px;\n  background-color: #80deea;\n}\n"]}
